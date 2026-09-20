@@ -1,0 +1,9 @@
+{
+  "event_id": "092103-011-sample-001",
+  "event_type": "PASS_ISSUED",
+  "aggregate_type": "night_pass",
+  "aggregate_id": "night_tour_pass_transit-001",
+  "occurred_at": "2026-09-20T16:00:00+08:00",
+  "version": 1,
+  "summary": "夜游联票与末班接驳联调样例"
+}
